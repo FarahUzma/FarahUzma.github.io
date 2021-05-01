@@ -463,7 +463,8 @@ label {
     border: none;
 	}
 	#education.show {
-	margin-left: 10vw;
+		margin-left: 15vw;
+		margin-top: 12vh;
 		  display:flex;
 		opacity: 1;
 		visibility: visible;
