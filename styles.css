@@ -510,7 +510,6 @@ label {
 	}
 	#projects.show {
 		margin-left: 15vw;
-		padding-top: 75px;
 		display: flex;
 		opacity: 1;
 		visibility: visible;
@@ -864,6 +863,7 @@ html, body {
 	opacity: 0;
 	transition: opacity 1s;
 	visibility: hidden;
+	overflow: scroll;
   }
   #projects.hide {
 	height: 0;
