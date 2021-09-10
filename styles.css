@@ -26,8 +26,6 @@
 
 /* Extra Small Devices, Phones */ 
 @media only screen and (min-width : 480px) and (max-width: 1100px) {
-	
- 
 
 label {
 	background: #444;
@@ -119,6 +117,7 @@ label {
 		position: relative;
 		width: 1000px;
 		max-width: 100%;
+		overflow: auto;
 		margin: 0px auto;
 		padding: 20px;
 		box-sizing: border-box;
