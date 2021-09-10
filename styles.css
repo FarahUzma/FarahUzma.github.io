@@ -119,6 +119,7 @@ label {
 		max-width: 100%;
 		overflow: auto;
 		margin: 0px auto;
+		margin-bottom: 10px;
 		padding: 20px;
 		box-sizing: border-box;
 		display: flex;
